@@ -4,3 +4,14 @@ main {
     margin: auto;
     width: 680px;
 }
+
+td, div {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(74, 74, 74);
+}
+
+a {
+    color: rgb(74, 74, 74);
+}
