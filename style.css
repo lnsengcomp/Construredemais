@@ -14,4 +14,9 @@ td, div {
 
 a {
     color: rgb(74, 74, 74);
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
 }
