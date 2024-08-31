@@ -1,13 +1,13 @@
 @charset "UTF-8";
 
 body {
-    background-color: rgba(122, 184, 213, 0.605);
+    background-color: rgba(235, 235, 235, 0.605);
 }
 
 main {
-    /*background-color: rgba(122, 184, 213, 0.605);*/
+    background-color: rgba(235, 235, 235, 0.605);
     width: 680px;
-    margin-top: auto;
+    margin-top: 50px;
     margin-right: auto;
     margin-bottom: auto;
     margin-left: auto;
@@ -18,8 +18,23 @@ main {
     
 }
 
+footer {
+    padding: 0px 50px;
+    width: 680px;
+    margin-top: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    color: rgb(74, 74, 74);
+    font-family: Geneva, Tahoma, sans-serif;
+    font-size: 10px;
+    text-align: center;
+    font-weight: bold;
+    background-color: rgba(250, 203, 115, 0.951);
+}
+
 td, div {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Geneva, Tahoma, sans-serif;
     font-size: 20px;
     font-weight: bold;
     color: rgb(74, 74, 74);
