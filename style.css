@@ -12,13 +12,6 @@ td, div {
     color: rgb(74, 74, 74);
 }
 
-.aviso {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 12px;
-    font-weight: bold;
-    color: rgb(74, 74, 74);
-}
-
 a {
     color: rgb(74, 74, 74);
     text-decoration: none;
@@ -26,12 +19,4 @@ a {
 
 a:hover {
     color: red;
-}
-
-td > p {
-    display: none;
-}
-
-td:hover > p {
-    display: block;
 }
