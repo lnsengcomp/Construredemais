@@ -1,8 +1,21 @@
 @charset "UTF-8";
 
+body {
+    background-color: rgba(122, 184, 213, 0.605);
+}
+
 main {
-    margin: auto;
+    /*background-color: rgba(122, 184, 213, 0.605);*/
     width: 680px;
+    margin-top: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    padding: 50px;
+    /*border-width: 8px;
+    border-style: solid;
+    border-color: rgba(246, 198, 109, 0.951);*/
+    
 }
 
 td, div {
