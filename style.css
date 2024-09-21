@@ -80,6 +80,10 @@ a {
     text-decoration: none;
 }
 
+abbr {
+    text-decoration: none;
+}
+
 a:hover {
     color: red;
 }
